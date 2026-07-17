@@ -21,7 +21,7 @@ C-Collection/
 
 | Project | Difficulty | Type | Summary |
 | :--- | :---: | :---: | :--- |
-| [Maze](./Maze/) | 🟡 Intermediate | Game / Algorithm | |
+| [Maze](./Maze/) | 🟡 Intermediate | Game / Algorithm | Generates random mazes and finds the shortest path using custom stacks and queues |
 
 ---
 
