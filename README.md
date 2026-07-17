@@ -27,16 +27,19 @@ C-Collection/
 
 ## Concepts Covered
 
-* **Data Structures:** Working with 2D arrays and matrices to represent maps and grids.
-* **Control Flow:** Using loops (`for`, `while`) and conditional statements for game logic and boundary checking.
-* **Memory Management:** Understanding pointers, memory addresses, and dynamic memory allocation (`malloc`, `free`).
-* **Basic Input/Output:** Utilizing standard C libraries (`stdio.h`) for terminal-based user interaction and rendering.
+* **Custom Data Structures:** Implementing dynamic Stacks and Circular Queues from scratch using structs and pointers.
+* **Algorithmic Logic:** 
+  * Using Randomized Depth-First Search (DFS) for procedural maze generation.
+  * Using Breadth-First Search (BFS) for shortest-path finding.
+* **Memory Management:** Dynamically allocating and deallocating memory (`malloc`, `calloc`, `free`) to prevent memory leaks in custom data structures.
+* **Grid Mathematics:** Manipulating 2D arrays/matrices for coordinate mapping and boundary checking.
+* **Terminal UI & Randomization:** Using ANSI escape codes for colored terminal rendering, and standardizing randomization (`<time.h>`, `rand()`) for shuffling directional logic.
 
 ---
 
 ## Tools & Libraries
 
 * C Programming
-* Standard C Library (`stdio.h`, `stdlib.h`, etc.)
+* Standard C Library (`stdio.h`, `stdlib.h`,  `time.h`)
 * GNU Compiler Collection (GCC)
 * Git & GitHub
