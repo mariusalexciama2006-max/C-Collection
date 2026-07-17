@@ -1,0 +1,7 @@
+# Code::Blocks generated files
+*.depend
+*.layout
+
+# Compiled executables and intermediate object files
+bin/
+obj/
